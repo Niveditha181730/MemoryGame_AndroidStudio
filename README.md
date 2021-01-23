@@ -1,6 +1,8 @@
 # MemoryGame_AndroidStudio
-To build a memory game using Android Studio
+To build a memory game using Android Studio along with the Knowledge gathered from Java.
 
+Tools Used:
+Android Studio
 
 Requirements
 
